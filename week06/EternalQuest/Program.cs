@@ -1,3 +1,14 @@
+/*
+I have added:
+
+- Leveling system with XP progress bar and creative level titles.
+- Negative goals that subtract points to track bad habits.
+- Badge system for milestone achievements like 30-day streaks.
+- Streak count tracking on eternal goals for daily motivation.
+- Polymorphic save/load system with text file persistence.
+- Clear use of polymorphism and inheritance for clean design.
+*/
+
 using System;
 
 class Program
